@@ -1,2 +1,2 @@
 # FG-Liveries
-Quality liveries for FG, the free flight sim.
+Quality liveries for Flightgear, the free flight simulator.

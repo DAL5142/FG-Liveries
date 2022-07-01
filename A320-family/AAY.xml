@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>Allegiant Airlines</name>
+				<name>Allegiant Airlines (N240NV)</name>
 				<texture-fuselage>AAY-fuselage.png</texture-fuselage>
 				<texture-engine>AAY-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
